@@ -33,4 +33,3 @@ def mul(num, prime_factor):
 
 
 mul(data[0], max_p_num)
-
